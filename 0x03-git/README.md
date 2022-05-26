@@ -56,7 +56,9 @@ $ git add test
 $ git commit -m "Initial commit"
 $ git push origin main</code></pre>
 <br>
-<h1>Tasks</h1>
+<h1>✅ Tasks ✅</h1>
+<p>This project is made up of mandatory and optional tasks (<b><i><code>Advanced task</code></i></b>), <b>⬇️ <code>look at them!</code></b> ⬇️</p>
+<br>
 <h2>0. Create and setup your Git and GitHub account</h2>
 <p>You will need Git for this project, you might have to&nbsp;<a href="https://intranet.hbtn.io/rltoken/n2SJyaVuu1tuhVgHSKw5Sg" target="_blank" title="install it">install it</a> on your computer if it&rsquo;s not done yet.</p>
 <ul>
@@ -85,8 +87,8 @@ $ git push origin main</code></pre>
 <p>Good job!</p>
 <p>You pushed your first file in your&nbsp;<strong>first repository</strong> of the&nbsp;<strong>first task</strong> of your&nbsp;<strong>first School project</strong>.</p>
 <ul>
-    <li><b>GitHub repository:</b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day" target="_blank">zero_day</b></i></a></code></li>
-    <li><b>File:</b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day/blob/main/0x03-git/README.md" target="_blank">README.md</b></i></a></code></li>
+    <li><b>GitHub repository:</b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day" target="_blank">zero_day</b></i></a></code></li>
+    <li><b>File:</b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day/blob/main/0x03-git/README.md" target="_blank">README.md</b></i></a></code> ✅</li>
 </ul>
 <br>
 <h2>1. Repo-session</h2>
@@ -98,7 +100,7 @@ $ git push origin main</code></pre>
 </ul>
 <p>And important part:&nbsp;<strong>Make sure your commit and push your code to Github - otherwise the Checker will always fail.</strong></p>
 <ul>
-    <li><b>GitHub repository:</b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day" target="_blank">zero_day</b></i></a></code></li>
+    <li><b>GitHub repository:</b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day" target="_blank">zero_day</b></i></a></code> ✅</li>
 </ul>
 <br>
 <h2>2. Coding fury road</h2>
@@ -117,7 +119,7 @@ $ git push origin main</code></pre>
     <li>Commit your changes (message: &ldquo;Starting to code today, so cool&rdquo;) and push to the remote server</li>
 </ul>
 <ul>
-    <li><b>Files:</b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day/blob/main/0x03-git/bash/best" target="_blank">bash/best</b></i></a></code>, <b></b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day/blob/main/0x03-git/bash/school" target="_blank">bash/school</b></i></a></code>, <b></b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day/blob/main/0x03-git/c/c_is_fun.c" target="_blank">c/c_is_fun.c</b></i></a></code>
+    <li><b>Files:</b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day/blob/main/0x03-git/bash/best" target="_blank">bash/best</b></i></a></code>, <b></b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day/blob/main/0x03-git/bash/school" target="_blank">bash/school</b></i></a></code>, <b></b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day/blob/main/0x03-git/c/c_is_fun.c" target="_blank">c/c_is_fun.c</b></i></a></code> ✅
 </ul>
 <br>
 <h2>3. Collaboration is the base of a company</h2>
@@ -147,7 +149,7 @@ $ git push origin main</code></pre>
 </ul>
 <p>Ouf, hot fix is done!</p>
 <ul>
-    <li><b>Files:</b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day/blob/main/0x03-git/bash/best" target="_blank">bash/best</b></i></a></code>, <b></b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day/blob/main/0x03-git/bash/school" target="_blank">bash/school</b></i></a></code>, <b></b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day/blob/main/0x03-git/bash/98" target="_blank">bash/98</b></i></a></code>
+        <li><b>Files:</b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day/blob/main/0x03-git/bash/best" target="_blank">bash/best</b></i></a></code>, <b></b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day/blob/main/0x03-git/bash/school" target="_blank">bash/school</b></i></a></code>, <b></b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day/blob/main/0x03-git/bash/98" target="_blank">bash/98</b></i></a></code> ✅
 </ul>
 <br>
 <h2>4. Collaboration: be up to date</h2>
@@ -160,7 +162,7 @@ $ git push origin main</code></pre>
     <li>Add&nbsp;<code>up_to_date</code> to git, commit (message: &ldquo;How to be up to date in git&rdquo;), and push to the origin</li>
 </ul>
 <ul>
-    <li><b>Files:</b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day/blob/main/0x03-git/README.md" target="_blank">README.md</b></i></a></code>, <b></b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day/blob/main/0x03-git/up_to_date" target="_blank">up_to_date</b></i></a></code>
+    <li><b>Files:</b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day/blob/main/0x03-git/README.md" target="_blank">README.md</b></i></a></code>, <b></b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day/blob/main/0x03-git/up_to_date" target="_blank">up_to_date</b></i></a></code> ✅
 </ul>
 <br>
 <h2>5. HAAA what did you do???</h2>
@@ -177,10 +179,10 @@ $ git push origin main</code></pre>
 <h2>6. Never push too much</h2>
 <p>Create a&nbsp;<code>.gitignore</code> file and define a rule to never push&nbsp;<code>~</code> files (generated by Emacs).&nbsp;<a href="https://intranet.hbtn.io/rltoken/0ANsyvhObT_TYAToY8-lbA" target="_blank" title="Tips">Tips</a> </p>
 <ul>
-    <li><b>File:</b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day/blob/main/0x03-git/.gitignore" target="_blank">.gitignore</b></i></a></code></li>
+    <li><b>File:</b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day/blob/main/0x03-git/.gitignore" target="_blank">.gitignore</b></i></a></code> ✅</li>
 </ul>
 <br>
 <h2>License & Copyright</h2>
 <i>©. Project provided by: <a href="https://www.holbertonschool.com/" target="_blank"><b>Holberton School</a></i></b>
 <br>
-<i>©. Project developed by:<b> Francisco Ramírez </b><b>|&nbsp;<a href="https://github.com/FranRM15" target="_blank"> GitHub</a> <b>|</b>&nbsp;<a href="https://twitter.com/FranciscoR_15" target = "_blank" rel="nofollow"> Twitter</b></a></p>
+<i>©. Project developed by:<b> Francisco Ramírez </b><b>|&nbsp;<a href="https://github.com/DevPacho" target="_blank"> GitHub</a> <b>|</b>&nbsp;<a href="https://twitter.com/FranciscoR_15" target = "_blank" rel="nofollow"> Twitter</b></a></p>
