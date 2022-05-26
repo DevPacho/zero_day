@@ -59,7 +59,9 @@ $ git push origin main</code></pre>
 <h3>Warning</h3>
 <p>This project <b>can’t be done in Sandboxes</b> - it can be done only in your local computer. Please refer to our concept pages for your operating system.</p>
 <br>
-<h1>Tasks</h1>
+<h1>✅ Tasks ✅</h1>
+<p>This project is made up of mandatory tasks, <b>⬇️ <code>look at them!</code></b> ⬇️</p>
+<br>
 <h2>0. Create and setup your Git and GitHub account</h2>
 <p><b><i>Advanced task</i></b><p>
 <p>You will need Git for this project, you might have to&nbsp;<a href="https://intranet.hbtn.io/rltoken/TJrA7MIEl9LxnkGNH_ddmw" target="_blank" title="install it">install it</a> on your computer if it&rsquo;s not done yet.</p>
@@ -87,8 +89,8 @@ $ git push origin main</code></pre>
 <p>Good job!</p>
 <p>You pushed your first file in your&nbsp;<strong>first repository</strong> of the&nbsp;<strong>first task</strong> of your&nbsp;<strong>first School project</strong>.</p>
 <ul>
-    <li><b>GitHub repository:</b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day" target="_blank">zero_day</b></i></a></code></li>
-    <li><b>File:</b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day/blob/main/0x00-vagrant/README.md" target="_blank">README.md</b></i></a></code></li>
+    <li><b>GitHub repository:</b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day" target="_blank">zero_day</b></i></a></code></li>
+    <li><b>File:</b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day/blob/main/0x00-vagrant/README.md" target="_blank">README.md</b></i></a></code> ✅</li>
 </ul>
 <br>
 <h2>1. Hello Ubuntu</h2>
@@ -97,10 +99,10 @@ $ git push origin main</code></pre>
 <p><code>ssh</code> into your Ubuntu VM. What does the command&nbsp;<code>uname</code> print when you run it without any option?</p>
 <p>Type your answer into a file in the&nbsp;<code>0x00-vagrant</code> directory and push it to GitHub. Name your file accordingly as shown below.</p>
 <ul>
-    <li><b>File:</b>&nbsp;<code><i><b><a href="https://github.com/FranRM15/zero_day/blob/main/0x00-vagrant/0-hello_ubuntu" target="_blank">0-hello_ubuntu</b></i></a></code></li>
+    <li><b>File:</b>&nbsp;<code><i><b><a href="https://github.com/DevPacho/zero_day/blob/main/0x00-vagrant/0-hello_ubuntu" target="_blank">0-hello_ubuntu</b></i></a></code> ✅</li>
 </ul>
 <br>
 <h2>License & Copyright</h2>
 <i>©. Project provided by: <a href="https://www.holbertonschool.com/" target="_blank"><b>Holberton School</a></i></b>
 <br>
-<i>©. Project developed by:<b> Francisco Ramírez </b><b>|&nbsp;<a href="https://github.com/FranRM15" target="_blank"> GitHub</a> <b>|</b>&nbsp;<a href="https://twitter.com/FranciscoR_15" target = "_blank" rel="nofollow"> Twitter</b></a></p>
+<i>©. Project developed by:<b> Francisco Ramírez </b><b>|&nbsp;<a href="https://github.com/DevPacho" target="_blank"> GitHub</a> <b>|</b>&nbsp;<a href="https://twitter.com/FranciscoR_15" target = "_blank" rel="nofollow"> Twitter</b></a></p>
